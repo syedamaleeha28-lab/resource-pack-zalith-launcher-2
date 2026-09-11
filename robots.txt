@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syedamaleeha28-lab.github.io/resource-pack-zalith-launcher-2/sitemap.xml
